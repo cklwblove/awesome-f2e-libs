@@ -102,6 +102,10 @@
 
 * [**vue-router**](https://github.com/vuejs/vue-router)
 
+## flutter 实例参考
+
+* [**FlutterDouBan**](https://github.com/kaina404/FlutterDouBan)
+
 ## 工具类
 
 * [**history**](https://github.com/ReactTraining/history)
