@@ -252,6 +252,7 @@
 * [**electron**](https://github.com/electron/electron)
 * [**DeskGap**](https://github.com/patr0nus/DeskGap/) - 类 electron，由于不包含浏览器的部分，所以产物更小
 * [**fx**](https://github.com/antonmedv/fx) - 交互式 JSON 查看。
+* [**chrome-plugin-demo**](https://github.com/sxei/chrome-plugin-demo) - Chrome插件开发全攻略配套完整Demo
 
 ## rtfs
 
