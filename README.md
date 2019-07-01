@@ -98,6 +98,11 @@
 * [**react-helmet**](https://github.com/nfl/react-helmet) - 修改 html 的 header 内容。
 * [**react-jsonschema-form**](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 
+## react hooks 相关
+
+* [**react-use**](https://github.com/streamich/react-use)
+* [**rehooks**](https://github.com/rehooks)
+
 ## vue 相关库
 
 * [**vue-router**](https://github.com/vuejs/vue-router)
