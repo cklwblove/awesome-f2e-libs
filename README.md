@@ -106,6 +106,11 @@
 ## vue 相关库
 
 * [**vue-router**](https://github.com/vuejs/vue-router)
+* [**vant**](https://github.com/youzan/vant) 有赞 - 移动端组件库
+* [**nutui**](https://github.com/jdf2e/nutui) 京东出品
+* [**cube-ui**](https://github.com/didi/cube-ui) 滴滴 - 基于 Vue 实现的精致移动端组件库
+* [**mand-mobile**](https://github.com/didi/mand-mobile) 滴滴 - 面向金融场景的 Vue 移动端组件库
+* [**mint-ui**](https://github.com/ElemeFE/mint-ui) 饿了么 - Vue 移动端组件库
 
 ## flutter 实例参考
 
