@@ -265,6 +265,10 @@
 * [**fx**](https://github.com/antonmedv/fx) - 交互式 JSON 查看。
 * [**chrome-plugin-demo**](https://github.com/sxei/chrome-plugin-demo) - Chrome插件开发全攻略配套完整Demo
 
+## 代码高亮
+* [**highlightjs**](https://highlightjs.org/)
+* [**syntaxhighlighter**](https://github.com/syntaxhighlighter/syntaxhighlighter)
+
 ## rtfs
 
 - [**reactjs/rfcs**](https://github.com/reactjs/rfcs)
