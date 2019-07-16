@@ -123,6 +123,7 @@
 * [**lodash**](https://github.com/lodash/lodash) - 工具集合。
 * [**fastclick**](https://github.com/ftlabs/fastclick)
 * [**date-fns**](https://github.com/date-fns/date-fns) - 时间处理。
+* [**dayjs**](https://github.com/iamkun/dayjs) - 时间处理，小巧
 * [**print-js**](https://www.npmjs.com/package/print-js) - 打印。
 
 ## 数据流
