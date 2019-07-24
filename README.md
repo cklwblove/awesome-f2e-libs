@@ -265,6 +265,7 @@
 * [**DeskGap**](https://github.com/patr0nus/DeskGap/) - 类 electron，由于不包含浏览器的部分，所以产物更小
 * [**fx**](https://github.com/antonmedv/fx) - 交互式 JSON 查看。
 * [**chrome-plugin-demo**](https://github.com/sxei/chrome-plugin-demo) - Chrome插件开发全攻略配套完整Demo
+* [**mirror-config-china**](https://github.com/gucong3000/mirror-config-china) - 中国内地的Node.js相关镜像配置，提供模块安装速度
 
 ## 代码高亮
 * [**highlightjs**](https://highlightjs.org/)
