@@ -125,6 +125,8 @@
 * [**date-fns**](https://github.com/date-fns/date-fns) - 时间处理。
 * [**dayjs**](https://github.com/iamkun/dayjs) - 时间处理，小巧
 * [**print-js**](https://www.npmjs.com/package/print-js) - 打印。
+* [**fpjs**](https://fingerprintjs.com/zh) - 浏览器指纹生成库
+* [**cloud-utils**](https://www.npmjs.com/package/@liwb/cloud-utils) - 常用的工具函数库
 
 ## 数据流
 
