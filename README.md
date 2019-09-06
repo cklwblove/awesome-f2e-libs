@@ -292,6 +292,7 @@
 ## github 不错的组织
 - [**ThoughtWorksInc**](https://github.com/ThoughtWorksInc)
 - [**iuap-design**](https://github.com/iuap-design)
+- [**ice-lab**](https://github.com/ice-lab)
 
 ## npm 中文
 - [**npm.cn**] (https://www.npmjs.cn)
