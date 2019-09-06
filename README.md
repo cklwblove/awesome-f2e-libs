@@ -293,6 +293,9 @@
 - [**ThoughtWorksInc**](https://github.com/ThoughtWorksInc)
 - [**iuap-design**](https://github.com/iuap-design)
 
+## npm 中文
+- [**npm.cn**] (https://www.npmjs.cn)
+
 ## 相关
 
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - 我在用的工具。
