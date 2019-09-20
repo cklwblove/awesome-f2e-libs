@@ -128,6 +128,7 @@
 * [**fpjs**](https://fingerprintjs.com/zh) - 浏览器指纹生成库
 * [**cloud-utils**](https://www.npmjs.com/package/@liwb/cloud-utils) - 常用的工具函数库
 * [**Recorder**](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、ios部分浏览器、和Hybrid App（提供Android IOS App源码），微信也是支持的，提供H5版语音通话聊天示例
+* [**bignumber.js**](https://github.com/MikeMcl/bignumber.js) -大量浮点数计算问题
 
 ## 数据流
 
