@@ -48,6 +48,8 @@
 
 * [**yarn**](https://github.com/yarnpkg/yarn) - 我用这个。
 * [**npm**](https://github.com/npm/cli)
+### npm 相关工具
+* [**npm-check**](https://www.npmjs.com/package/npm-check) - 检查依赖包的版本，可以一键进行升级
 
 ## babel
 
