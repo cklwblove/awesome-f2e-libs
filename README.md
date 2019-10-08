@@ -59,7 +59,8 @@
 * [**babel-plugin-dynamic-import-node**](https://github.com/airbnb/babel-plugin-dynamic-import-node) - 有些场景下会需要禁用 `import()` 语法。
 * [**babel-plugin-react-require**](https://github.com/vslinko/babel-plugin-react-require) - 自动为 jsx 语法加 react 引用。
 * [**babel-plugin-transform-react-remove-prop-types**](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - 删除 prop-types，生产环境用。
-
+* [**promise-polyfill**](https://github.com/taylorhakes/promise-polyfill) - 轻量级的 promise 垫片实现
+ -  
 ## 测试
 
 * [**jest**](https://github.com/facebook/jest)
