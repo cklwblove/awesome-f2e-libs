@@ -274,6 +274,7 @@
 * [**chrome-plugin-demo**](https://github.com/sxei/chrome-plugin-demo) - Chrome插件开发全攻略配套完整Demo
 * [**mirror-config-china**](https://github.com/gucong3000/mirror-config-china) - 中国内地的Node.js相关镜像配置，提供模块安装速度
 * [**zenflowchart**](https://www.zenflowchart.com/) - 简单好用的在线流程图工具
+* [**https://github.com/navyxie/bankcardinfo**](https://github.com/navyxie/bankcardinfo) - 根据银行卡卡号查询银行类型和卡类型
 
 ## 代码高亮
 * [**highlightjs**](https://highlightjs.org/)
