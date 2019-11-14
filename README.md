@@ -133,6 +133,7 @@
 * [**Recorder**](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、ios部分浏览器、和Hybrid App（提供Android IOS App源码），微信也是支持的，提供H5版语音通话聊天示例
 * [**bignumber.js**](https://github.com/MikeMcl/bignumber.js) -大量浮点数计算问题
 * [**nanoid**](https://github.com/ai/nanoid/) -一个极小的 uuid 生成的 JS 库
+* [**js-xss**](https://github.com/leizongmin/js-xss) -防 xss 攻击
 
 ## 数据流
 
