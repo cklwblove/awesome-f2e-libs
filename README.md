@@ -134,6 +134,7 @@
 * [**bignumber.js**](https://github.com/MikeMcl/bignumber.js) -大量浮点数计算问题
 * [**nanoid**](https://github.com/ai/nanoid/) -一个极小的 uuid 生成的 JS 库
 * [**js-xss**](https://github.com/leizongmin/js-xss) -防 xss 攻击
+* [**any-rule**](https://github.com/any86/any-rule) -很不错的正则表达式集锦
 
 ## 数据流
 
