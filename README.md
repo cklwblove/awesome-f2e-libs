@@ -312,7 +312,6 @@
 
 ## js 反编译
 - [**jsnice**](http://jsnice.org/)
--
 
 ## 数据可视化
 - [**echarts**](https://echarts.apache.org/zh/index.html)
@@ -320,7 +319,7 @@
 
 ## 富文本
 - [**wangeditor**](http://www.wangeditor.com/)
-- [**ueeditor**](http://ueditor.baidu.com/website/)
+- [**ueditor**](http://ueditor.baidu.com/website/)
 - [**tinymce**](https://www.tiny.cloud/docs/api/tinymce/root_tinymce/)
 
 ## 相关
