@@ -322,6 +322,10 @@
 - [**ueditor**](http://ueditor.baidu.com/website/)
 - [**tinymce**](https://www.tiny.cloud/docs/api/tinymce/root_tinymce/)
 
+## 代码编辑器
+- [**Monaco Editor**](https://microsoft.github.io/monaco-editor/) - 微软出品
+- [**ACE Editor**](https://ace.c9.io/)
+
 ## 相关
 - [**在线工具收集**](https://betgar.github.io/2019/08/13/online-tools-collection/)
 
