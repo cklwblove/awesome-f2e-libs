@@ -321,6 +321,7 @@
 - [**wangeditor**](http://www.wangeditor.com/)
 - [**ueditor**](http://ueditor.baidu.com/website/)
 - [**tinymce**](https://www.tiny.cloud/docs/api/tinymce/root_tinymce/)
+- [**braft-editor**](https://github.com/margox/braft-editor)
 
 ## 代码编辑器
 - [**Monaco Editor**](https://microsoft.github.io/monaco-editor/) - 微软出品
