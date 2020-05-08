@@ -43,6 +43,7 @@
 * [**duplicate-package-checker-webpack-plugin**](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) - 重复依赖检测。
 * [**fork-ts-checker-webpack-plugin**](https://github.com/Realytics/fork-ts-checker-webpack-plugin) - ts 语法检测。
 * [**speed-measure-webpack-plugin**](https://github.com/stephencookdev/speed-measure-webpack-plugin) - 统计 webpack 各阶段耗时。
+* [**webpack-remove-strict-mode-plugin**](https://github.com/YDSS/webpack-remove-strict-mode-plugin) - 删除 'use strict'。
 
 ## 包管理
 
