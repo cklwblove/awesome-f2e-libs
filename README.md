@@ -138,6 +138,7 @@
 * [**any-rule**](https://github.com/any86/any-rule) -很不错的正则表达式集锦
 * [**viewerjs**](https://fengyuanchen.github.io/viewerjs/) - 图片查看器
 * [**enquire.js**](https://github.com/WickyNilliams/enquire.js) - 响应css媒体查询的轻量级javascript库
+* [**tinykeys**](https://github.com/jamiebuilds/tinykeys) - 键盘快捷键绑定
 
 ## 数据流
 
