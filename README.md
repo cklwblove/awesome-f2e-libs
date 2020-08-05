@@ -139,6 +139,7 @@
 * [**viewerjs**](https://fengyuanchen.github.io/viewerjs/) - 图片查看器
 * [**enquire.js**](https://github.com/WickyNilliams/enquire.js) - 响应css媒体查询的轻量级javascript库
 * [**tinykeys**](https://github.com/jamiebuilds/tinykeys) - 键盘快捷键绑定
+* [**loadCSS**](https://github.com/filamentgroup/loadCSS) - 动态异步加载CSS
 
 ## 数据流
 
