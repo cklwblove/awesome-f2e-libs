@@ -258,6 +258,7 @@
 * [**ink**](https://github.com/vadimdemedes/ink) - 用 React 处理命令行输出。
 * [**figures**](https://github.com/sindresorhus/figures) - ✔︎ 等特殊字符，做了 windows 兼容处理。
 * [**ntl**](https://github.com/ruyadorno/ntl) - npm task list
+* [**release**](https://github.com/vercel/release) - 一个 Node.js 库，一键生成软件包的 changelog。
 
 ## 请求处理
 
