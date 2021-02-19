@@ -42,7 +42,7 @@
 * [**webpack-remove-strict-mode-plugin**](https://github.com/YDSS/webpack-remove-strict-mode-plugin) - 删除 'use strict'。
 
 ### Bundless
-* [**vite**](https://github.com/vitejs/vite)	* [**vite**](https://github.com/vitejs/vite)
+* [**vite**](https://github.com/vitejs/vite)
 * [**snowpack**](https://github.com/pikapkg/snowpack) - 浏览器里跑 npm 依赖，面向现代浏览器。	* [**snowpack**](https://github.com/pikapkg/snowpack) - 浏览器里跑 npm 依赖，面向现代浏览器。
 * [**es-dev-server**](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server)	* [**es-dev-server**](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server)
 
