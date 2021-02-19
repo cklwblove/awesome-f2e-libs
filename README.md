@@ -311,6 +311,7 @@
 - [**ThoughtWorksInc**](https://github.com/ThoughtWorksInc)
 - [**iuap-design**](https://github.com/iuap-design)
 - [**ice-lab**](https://github.com/ice-lab)
+- [**octokit**](https://github.com/octokit) - Official clients for the GitHub API
 
 ## npm 中文
 - [**npm.cn**] (https://www.npmjs.cn)
