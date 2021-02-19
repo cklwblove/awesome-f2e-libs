@@ -7,26 +7,21 @@
 * [**webpack**](https://github.com/webpack/webpack) - 打包项目。
 * [**rollup**](https://github.com/rollup/rollup) - 打包 npm 库。
 * [**parcel**](https://github.com/parcel-bundler/parcel) - webpack 竞品，但发展前景不乐观，再观察一段时间。
-* [**@pikapkg/pack**](https://github.com/pikapkg/pack) - 又一组件打包工具。
 * [**systemjs**](https://github.com/systemjs/systemjs) - 针对一些特殊场景会比较有用，比如云 ide，支付宝小程序 IDE 等。
 * [**microbundle**](https://github.com/developit/microbundle) - 基于 rollup，简化配置。
 * [**bili**](https://github.com/egoist/bili) - 基于 rollup，同上。
-* [**webpack-dev-server**](https://github.com/webpack/webpack-dev-server) - webpack 开发服务器。
-* [**webpack-dev-middleware**](https://github.com/webpack/webpack-dev-middleware) - webpack 中间件。
 * [**vue-cli**](https://github.com/vuejs/vue-cli) - vue 命令行工具。
 * [**create-react-app**](https://github.com/facebook/create-react-app) - react 官方脚手架。
-* [**webpack-merge**](https://github.com/survivejs/webpack-merge) - 合并 webpack 配置。
-* [**webpack-chain**](https://github.com/neutrinojs/webpack-chain) - 通过 chain 风格 api 的方式修改 webpack 配置。
 * [**prepack**](https://github.com/facebook/prepack) - 通过预先执行的方式优化打包结果。
-* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
-* [**nathan/pax**](https://github.com/nathan/pax) - 基于 rust，据说是这个星球最快的 JavaScript 打包工具。
-* [**pikapkg/web**](https://github.com/pikapkg/web) - 浏览器里跑 npm 依赖，面向现代浏览器。
 * [**lebab/lebab**](https://github.com/lebab/lebab) - 把 es5 代码转成 es6，反向 babel。
+* [**esm-to-cjs**](https://github.com/sidvishnoi/esm-to-cjs) - 把 esm 转成 cjs。
 * [**palmerhq/tsdx**](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
-* [**markdown-wasm**](https://github.com/rsms/markdown-wasm) - 基于 wasm 的 markdown 解析工具。
 
 ### webpack loader 和插件
-
+* [**webpack-dev-server**](https://github.com/webpack/webpack-dev-server) - webpack 开发服务器。
+* [**webpack-dev-middleware**](https://github.com/webpack/webpack-dev-middleware) - webpack 中间件。
+* [**webpack-merge**](https://github.com/survivejs/webpack-merge) - 合并 webpack 配置。
+* [**webpack-chain**](https://github.com/neutrinojs/webpack-chain) - 通过 chain 风格 api 的方式修改 webpack 配置。
 * [**hard-source-webpack-plugin**](https://github.com/mzgoddard/hard-source-webpack-plugin) - 性能提升 70%，但有坑。
 * [**svgr**](https://github.com/smooth-code/svgr) - svg 转 react 组件。
 * [**postcss**](https://github.com/postcss/postcss) - CSS 界的 babel。
@@ -52,17 +47,18 @@
 * [**es-dev-server**](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server)	* [**es-dev-server**](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server)
 
 ### 非 JavaScript 编译工具	
-* [**boa**](https://github.com/boa-dev/boa) - 基于 Rust，嵌入式 Javascript 引擎。	* [**boa**](https://github.com/boa-dev/boa) - 基于 Rust，嵌入式 Javascript 引擎。
-* [**dprint**](https://github.com/dprint/dprint) - 基于  Rust，代码格式化工具，Prettier 替代品。	* [**dprint**](https://github.com/dprint/dprint) - 基于  Rust，代码格式化工具，Prettier 替代品。
-* [**elsa**](https://github.com/elsaland/elsa) - 基于 Go，JavaScript 和 TypeScript 的 runtime。 	* [**elsa**](https://github.com/elsaland/elsa) - 基于 Go，JavaScript 和 TypeScript 的 runtime。 
-* [**es-module-lexer**](https://github.com/guybedford/es-module-lexer) - 基于 C，输出 Web Assembly，esm 模块解析。	* [**es-module-lexer**](https://github.com/guybedford/es-module-lexer) - 基于 C，输出 Web Assembly，esm 模块解析。
-* [**esbuild**](https://github.com/evanw/esbuild) - 基于 Go，Webpack 替代品。	* [**esbuild**](https://github.com/evanw/esbuild) - 基于 Go，Webpack 替代品。
+* [**boa**](https://github.com/boa-dev/boa) - 基于 Rust，嵌入式 Javascript 引擎。
+* [**dprint**](https://github.com/dprint/dprint) - 基于 Rust，代码格式化工具，Prettier 替代品。
+* [**elsa**](https://github.com/elsaland/elsa) - 基于 Go，JavaScript 和 TypeScript 的 runtime。 
+* [**es-module-lexer**](https://github.com/guybedford/es-module-lexer) - 基于 C，输出 Web Assembly，esm 模块解析。
+* [**esbuild**](https://github.com/evanw/esbuild) - 基于 Go，Webpack 替代品。
 * [**esbuild-node-tsc**](https://github.com/a7ul/esbuild-node-tsc) - 用 esbuild 编译 TypeScript 项目，但不支持类型检测。
-* [**minify**](https://github.com/tdewolff/minify) - 基于 Go，压缩器，支持 HTML5、CSS3、JS、JSON、SVG 和 XML。	* [**minify**](https://github.com/tdewolff/minify) - 基于 Go，压缩器，支持 HTML5、CSS3、JS、JSON、SVG 和 XML。
-* [**RSLint**](https://github.com/RDambrosio016/RSLint) - 基于 Rust，lint 工具。	* [**RSLint**](https://github.com/RDambrosio016/RSLint) - 基于 Rust，lint 工具。
-* [**sucrase**](https://github.com/alangpierce/sucrase) - 基于 Rust，Babel 替代品。	* [**sucrase**](https://github.com/alangpierce/sucrase) - 基于 Rust，Babel 替代品。
-* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。	* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
+* [**minify**](https://github.com/tdewolff/minify) - 基于 Go，压缩器，支持 HTML5、CSS3、JS、JSON、SVG 和 XML。
+* [**RSLint**](https://github.com/RDambrosio016/RSLint) - 基于 Rust，lint 工具。
+* [**sucrase**](https://github.com/alangpierce/sucrase) - 基于 Rust，Babel 替代品。
+* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
 * [**swc-node**](https://github.com/Brooooooklyn/swc-node)
+* [**markdown-wasm**](https://github.com/rsms/markdown-wasm) - 基于 wasm 的 markdown 解析工具。
 * 
 ## 包管理
 
@@ -96,6 +92,7 @@
 
 * [**react**](https://github.com/facebook/react)
 * [**vue**](https://github.com/vuejs/vue)
+* [**sveltejs**](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps。
 * [**next.js**](https://github.com/zeit/next.js)
 * [**nuxt.js**](https://github.com/nuxt/nuxt.js)
 * [**gastby**](https://github.com/gatsbyjs/gatsby)
@@ -194,6 +191,7 @@
 
 ## 文档
 
+* [**dumi**](https://github.com/umijs/dumi)
 * [**vuepress**](https://github.com/vuejs/vuepress)
 * [**docz**](https://github.com/pedronauck/docz)
 * [**storybook**](https://github.com/storybooks/storybook)
@@ -225,6 +223,7 @@
 * [**onchange**](https://github.com/Qard/onchange) - 监听文件变动然后做一些事。
 * [**just**](https://github.com/Microsoft/just) - 微软出的任务管理器。
 * [**tern**](https://github.com/ternjs/tern) - 代码分析器，为不少编辑器服务。
+* [**lightproxy**](https://github.com/alibaba/lightproxy) - 底层协议代理工具，跨平台。
 
 ## 编辑器
 
@@ -288,9 +287,11 @@
 * [**axios**](https://github.com/axios/axios)
 * [**request**](https://github.com/request/request)
 * [**reqwest**](https://github.com/ded/reqwest)
+* [**urllib**](https://github.com/node-modules/urllib)
 
 ## 压缩解压缩
 
+* [**compressing**](https://github.com/node-modules/compressing) - 压缩和解压缩。
 * [**yazl**](https://www.npmjs.com/package/yazl) - zip 压缩。
 * [**yauzl**](https://github.com/thejoshwolfe/yauzl) - zip 解压缩。
 * [**tar-fs**](https://github.com/mafintosh/tar-fs) - tar 的压缩和解压缩。
@@ -298,6 +299,12 @@
 ## 语法解析
 
 * [**esquery**](https://github.com/estools/esquery) - 语法树查询。
+
+## Markdown
+
+* [**markdown-it**](https://github.com/markdown-it/markdown-it) - Markdown 转 HTML。
+* [**remark**](https://github.com/remarkjs/remark) - Markdown 语法解析器。
+
 
 ## 其他
 
