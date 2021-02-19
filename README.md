@@ -23,6 +23,7 @@
 * [**pikapkg/web**](https://github.com/pikapkg/web) - 浏览器里跑 npm 依赖，面向现代浏览器。
 * [**lebab/lebab**](https://github.com/lebab/lebab) - 把 es5 代码转成 es6，反向 babel。
 * [**palmerhq/tsdx**](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
+* [**markdown-wasm**](https://github.com/rsms/markdown-wasm) - 基于 wasm 的 markdown 解析工具。
 
 ### webpack loader 和插件
 
@@ -45,10 +46,29 @@
 * [**speed-measure-webpack-plugin**](https://github.com/stephencookdev/speed-measure-webpack-plugin) - 统计 webpack 各阶段耗时。
 * [**webpack-remove-strict-mode-plugin**](https://github.com/YDSS/webpack-remove-strict-mode-plugin) - 删除 'use strict'。
 
+### Bundless
+* [**vite**](https://github.com/vitejs/vite)	* [**vite**](https://github.com/vitejs/vite)
+* [**snowpack**](https://github.com/pikapkg/snowpack) - 浏览器里跑 npm 依赖，面向现代浏览器。	* [**snowpack**](https://github.com/pikapkg/snowpack) - 浏览器里跑 npm 依赖，面向现代浏览器。
+* [**es-dev-server**](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server)	* [**es-dev-server**](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server)
+
+### 非 JavaScript 编译工具	
+* [**boa**](https://github.com/boa-dev/boa) - 基于 Rust，嵌入式 Javascript 引擎。	* [**boa**](https://github.com/boa-dev/boa) - 基于 Rust，嵌入式 Javascript 引擎。
+* [**dprint**](https://github.com/dprint/dprint) - 基于  Rust，代码格式化工具，Prettier 替代品。	* [**dprint**](https://github.com/dprint/dprint) - 基于  Rust，代码格式化工具，Prettier 替代品。
+* [**elsa**](https://github.com/elsaland/elsa) - 基于 Go，JavaScript 和 TypeScript 的 runtime。 	* [**elsa**](https://github.com/elsaland/elsa) - 基于 Go，JavaScript 和 TypeScript 的 runtime。 
+* [**es-module-lexer**](https://github.com/guybedford/es-module-lexer) - 基于 C，输出 Web Assembly，esm 模块解析。	* [**es-module-lexer**](https://github.com/guybedford/es-module-lexer) - 基于 C，输出 Web Assembly，esm 模块解析。
+* [**esbuild**](https://github.com/evanw/esbuild) - 基于 Go，Webpack 替代品。	* [**esbuild**](https://github.com/evanw/esbuild) - 基于 Go，Webpack 替代品。
+* [**esbuild-node-tsc**](https://github.com/a7ul/esbuild-node-tsc) - 用 esbuild 编译 TypeScript 项目，但不支持类型检测。
+* [**minify**](https://github.com/tdewolff/minify) - 基于 Go，压缩器，支持 HTML5、CSS3、JS、JSON、SVG 和 XML。	* [**minify**](https://github.com/tdewolff/minify) - 基于 Go，压缩器，支持 HTML5、CSS3、JS、JSON、SVG 和 XML。
+* [**RSLint**](https://github.com/RDambrosio016/RSLint) - 基于 Rust，lint 工具。	* [**RSLint**](https://github.com/RDambrosio016/RSLint) - 基于 Rust，lint 工具。
+* [**sucrase**](https://github.com/alangpierce/sucrase) - 基于 Rust，Babel 替代品。	* [**sucrase**](https://github.com/alangpierce/sucrase) - 基于 Rust，Babel 替代品。
+* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。	* [**swc**](https://github.com/swc-project/swc) - 基于 rust 的语法转换器，babel 的竞争者。
+* [**swc-node**](https://github.com/Brooooooklyn/swc-node)
+* 
 ## 包管理
 
 * [**yarn**](https://github.com/yarnpkg/yarn) - 我用这个。
 * [**npm**](https://github.com/npm/cli)
+
 ### npm 相关工具
 * [**npm-check**](https://www.npmjs.com/package/npm-check) - 检查依赖包的版本，可以一键进行升级
 
@@ -259,6 +279,7 @@
 * [**figures**](https://github.com/sindresorhus/figures) - ✔︎ 等特殊字符，做了 windows 兼容处理。
 * [**ntl**](https://github.com/ruyadorno/ntl) - npm task list
 * [**release**](https://github.com/vercel/release) - 一个 Node.js 库，一键生成软件包的 changelog。
+* [**why-is-node-running**](https://github.com/mafintosh/why-is-node-running) - 检查 node 没退出的原因。
 
 ## 请求处理
 
